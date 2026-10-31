@@ -22,4 +22,4 @@
 - **Face Recognition Attendance**: Raspberry Pi attendance system
 
 ## Reach me
-[LinkedIn](https://linkedin.com/in/your-link) · [Email](mailto:you@example.com)
+[LinkedIn](https://www.linkedin.com/in/pavindu-d-bhashitha-5912b83a8/) · [Email](mailto:pavindud883@gmail.com)
